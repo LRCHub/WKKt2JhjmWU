@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アイムハイ",
+  "base_artist": "MARETU",
+  "createdAt": "2025-12-04T07:37:21.403739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイムハイ",
+      "artist": "Maretu",
+      "has_synced": true,
+      "path": "select/01_アイムハイ_Maretu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイムハイ - I'm high",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/02_アイムハイ_-_I'm_high_MARETU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイムハイ / I'm High",
+      "artist": "MARETU",
+      "has_synced": true,
+      "path": "select/03_アイムハイ___I'm_High_MARETU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイムハイ",
+      "artist": "maretu",
+      "has_synced": false,
+      "path": "select/pl_01_アイムハイ_maretu.txt"
+    }
+  ]
+}
